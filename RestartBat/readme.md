@@ -1,0 +1,1 @@
+restartA->shell:startup

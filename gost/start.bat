@@ -1,0 +1,1 @@
+gost-windows-amd64.exe -L=tcp://:5979/"中转服务器IP":"端口" -F=relay+tls://"gost转发服务器IP":"端口"
